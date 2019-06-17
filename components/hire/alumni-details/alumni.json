@@ -2,59 +2,64 @@
   {
     "id": 1,
     "roles": ["alumni"],
-    "name": "Katsisaac50",
+    "name": "Isaac Katongole",
     "email": "katsisaac50@gmail.com",
     "photo": "1.jpg",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, voluptate.",
-    "github": "http://link-goes-here.com/github",
-    "onlineCV": "http://link-goes-here.com/cv",
+    "github": "https://github.com/katsisaac50",
+    "onlineCV": "https://katsisaac50.github.io/myresume/",
     "pdfCV": "1.pdf",
-    "skills": ["JS", "Express.js", "MySQL"],
+    "linkedin": "https://www.linkedin.com/in/katongole-isaac-2b27b6170/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "Looking for jobs",
-    "graduationDate": "01-01-2018"
+    "graduationDate": "02-09-2018"
   },
-  {
+  
+/*
+{
     "id": 2,
     "roles": ["alumni"],
     "name": "Hala Kasim",
     "email": "halakasim16@gmail.com",
     "photo": "2.jpg",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, voluptate.",
     "github": "http://link-goes-here.com/github",
     "onlineCV": "http://link-goes-here.com/cv",
     "pdfCV": "2.pdf",
-    "skills": ["JS", "React", "Elastich Search"],
+    "linkedin": "https://https://www.linkedin.com/in/hala-kasim-009451155/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js", "Sitecore", "Umbraco"],
     "status": "Looking for new opportunities",
     "graduationDate": "02-01-2018"
   },
+*/
   {
     "id": 3,
     "roles": ["alumni"],
     "name": "Rufaida Jumaa",
     "email": "eng.rufaidajumaa@gmail.com",
     "photo": "",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, voluptate.",
     "github": "http://link-goes-here.com/github",
     "onlineCV": "http://link-goes-here.com/cv",
-    "pdfCV": "2.pdf",
-    "skills": ["JS", "React"],
+    "pdfCV": "3.pdf",
+    "linkedin": "https://https://www.linkedin.com/in/rufaida-jumaa-a15ba4142/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "Looking for jobs",
-    "graduationDate": "03-01-2018"
+    "graduationDate": "02-01-2018"
   },
+/*
   {
     "id": 4,
     "roles": ["alumni"],
-    "name": "Mohammed Abd",
+    "name": "Mohammed Abd Alrheem",
     "email": "moha.abd.99@gmail.com",
     "photo": "3.jpg",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, voluptate.",
     "github": "http://link-goes-here.com/github",
     "onlineCV": "http://link-goes-here.com/cv",
-    "pdfCV": "2.pdf",
-    "skills": ["JS", "GraphQL", "CSS3", "Koa.js"],
+    "pdfCV": "4.pdf",
+    "linkedin": ""
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for internship",
-    "graduationDate": "04-01-2018"
+    "graduationDate": "02-01-2018"
   },
+*/
   {
     "id": 6,
     "roles": ["alumni"],
@@ -62,11 +67,124 @@
     "email": "chard.paredes@gmail.com",
     "photo": "4.JPG",
     "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, voluptate.",
-    "github": "http://link-goes-here.com/github",
+    "github": "https://github.com/paredesrichard",
     "onlineCV": "http://link-goes-here.com/cv",
-    "pdfCV": "2.pdf",
-    "skills": ["JS", "HTML", "SCSS", "C#", "UI"],
+    "pdfCV": "6.pdf",
+    "linkedin": "https://www.linkedin.com/in/richard-paredes/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "Looking for jobs",
-    "graduationDate": "05-01-2018"
-  }
+    "graduationDate": "25-11-2018"
+  },
+{
+    "id": 7,
+    "roles": ["alumni"],
+    "name": "Monya Kwene Alete",
+    "email": "kwenait@yahoo.ca ",
+    "photo": "7.JPG",
+    "github": "https://github.com/kwenealete",
+    "onlineCV": "http://link-goes-here.com/cv",
+    "pdfCV": "7.pdf",
+    "linkedin": "https://www.linkedin.com/in/monya-kwene-alete-208203b5/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "02-06-2018"
+},
+   {
+    "id": 8,
+    "roles": ["alumni"],
+    "name": "Badr Amine",
+    "email": "amine2019badr@gmail.com",
+    "photo": "8.JPG",
+    "github": "https://github.com/HackAsh96",
+    "onlineCV": "http://link-goes-here.com/cv",
+    "pdfCV": "8.pdf",
+    "linkedin": ""
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "02-06-2018"
+  },
+   {
+    "id": 9,
+    "roles": ["alumni"],
+    "name": "Yana Khuchuieva",
+    "email": "yanakhuchuieva@gmail.com",
+    "photo": "9.JPG",
+    "github": "https://github.com/elilovna",
+    "onlineCV": "http://link-goes-here.com/cv",
+    "pdfCV": "6.pdf",
+    "linkedin": "https://www.linkedin.com/in/yana-khuchuieva-3a771a159/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "25-11-2018"
+  },
+   {
+    "id": 10,
+    "roles": ["alumni"],
+    "name": "Samyar Modabber",
+    "email": "samyar.modabber@gmail.com ",
+    "photo": "10.JPG",
+    "github": "https://github.com/samyarmodabber",
+    "onlineCV": "http://link-goes-here.com/cv",
+    "pdfCV": "10.pdf",
+    "linkedin": "https://www.linkedin.com/in/samyarmodabber/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "25-11-2018"
+  },
+  {
+    "id": 11,
+    "roles": ["alumni"],
+    "name": "Johanna May Baguio",
+    "email": "johbaguio@gmail.com ",
+    "photo": "11.JPG",
+    "github": "https://github.com/johbaguio",
+    "onlineCV": "http://link-goes-here.com/cv",
+    "pdfCV": "11.pdf",
+    "linkedin": "https://www.linkedin.com/in/johanna-may-baguio-a8aa90174/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "02-06-2019"
+  },
+    {
+    "id": 12,
+    "roles": ["alumni"],
+    "name": "Neer Thapa",
+    "email": "nirmala@surf.net.np",
+    "photo": "12.JPG",
+    "github": "https://github.com/johbaguio",
+    "onlineCV": "https://neer.netlify.com/",
+    "pdfCV": "12.pdf",
+    "linkedin": "https://www.linkedin.com/in/neerthapa/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "27-01-2019"
+  },
+    {
+    "id": 13,
+    "roles": ["alumni"],
+    "name": "Marco De Cara",
+    "email": "marcodecara@gmail.com ",
+    "photo": "13.JPG",
+    "github": "https://github.com/marcodecara",
+    "onlineCV": "https://www.marcodecara.com/",
+    "pdfCV": "3.pdf",
+    "linkedin": "https://www.linkedin.com/in/marco-de-cara-1b409013a/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "27-01-2019"
+  },
+    {
+    "id": 13,
+    "roles": ["alumni"],
+    "name": "Asma Shaheen Chudhary ",
+    "email": "rababhina@hotmail.com  ",
+    "photo": "13.JPG",
+    "github": "https://github.com/asma2018",
+    "onlineCV": "https://asma2018.github.io/myportfolio/",
+    "pdfCV": "13.pdf",
+    "linkedin": "https://www.linkedin.com/in/asma-s-chudhary-4249a815/"
+    "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "status": "Looking for jobs",
+    "graduationDate": "01-09-2018"
+  },
 ]
