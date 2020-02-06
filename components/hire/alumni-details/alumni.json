@@ -68,5 +68,36 @@
     "skills": ["JS", "HTML", "SCSS", "C#", "UI"],
     "status": "Looking for jobs",
     "graduationDate": "05-01-2018"
+  },
+  {
+    "id": 27,
+    "roles": ["alumni"],
+    "name": "Mohammad Reza Mohseni",
+    "email": "mohseni.mr93@gmail.com",
+    "photo": "/static/alumni/photos/mohseni.png",
+    "github": "https://github.com/mo3ni",    
+    "pdfCV": "/static/alumni/cv/MohammadResume.pdf",
+    "linkedin": "https://www.linkedin.com/in/mo3ni",
+    "skills": [
+      "HTML",
+      "Css",
+      "JavaScript (ES6)",
+      "Express.js",
+      "Git",
+      "Heroku",
+      "Knex.js",
+      "MySQL",
+      "Node.js",
+      "React",
+      "Dart(flutter)",
+      "REST API",
+      "UML",
+      "Swagger",
+      "Firebase",
+      "XML",
+      "TS"     
+    ],
+    "status": "Looking for jobs",
+    "graduationDate": "29-01-2020"
   }
 ]
