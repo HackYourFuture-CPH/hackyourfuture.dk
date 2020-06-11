@@ -449,5 +449,55 @@
     "photo": "/static/team/hala.jpg",
     "linkedin": "https://www.linkedin.com/in/hala-qasim-009451155/",
     "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"]
+  },
+  {
+    "id": 30,
+    "roles": ["alumni"],
+    "name": "Lilla Kőrösi",
+    "email": "korosililla@gmail.com",
+    "photo": "/static/alumni/photos/lilla.jpg",
+    "github": "https://github.com/Laila1222",
+    "pdfCV": "/static/alumni/cv/lilla.pdf",
+    "onlineCV": "https://lillakorosi.com/",
+    "linkedin": "https://www.linkedin.com/in/lilla-korosi/",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Sass",
+      "Bootstrap",
+      "Git",
+      "Firebase"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-01-2020"
+  },
+  {
+    "id": 31,
+    "roles": ["alumni"],
+    "name": "Axel Leonide Gassay Ekamba",
+    "email": "axelleonide@gmail.com",
+    "photo": "/static/alumni/photos/Axel.jpg",
+    "github": "https://github.com/Ekamba",
+    "onlineCV": "https://ekamba.github.io/Axel_portfolio/",
+    "linkedin": "https://www.linkedin.com/in/axel-ekamba-1b8bb066/",
+    "skills": [
+      "JS",
+      "Express.js",
+      "MySQL",
+      "React",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Python",
+      "Knex.js,sass"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-04-2020"
   }
 ]
