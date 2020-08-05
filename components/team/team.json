@@ -382,5 +382,14 @@
     "photo": "/static/alumni/photos/daryan.jpg",
     "linkedin": "https://www.linkedin.com/in/daryan-kamalifar-915725140/",
     "github": "https://github.com/Daryan-Tech"
+  },
+  {
+    "id": 47,
+    "name": "Braedon Gough",
+    "roles": ["mentor"],
+    "roleDescription": "Mentor",
+    "photo": "/static/team/braedon.jpg",
+    "linkedin": "https://www.linkedin.com/in/braedon-gough-ba92a048/",
+    "github": "https://github.com/braedongough"
   }
 ]
