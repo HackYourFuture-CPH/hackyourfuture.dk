@@ -559,5 +559,31 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "08-07-2020"
+  },
+  {
+    "id": 33,
+    "roles": ["alumni"],
+    "name": "Miroslava Szabo",
+    "email": "poradova.m@gmail.com",
+    "photo": "/static/alumni/photos/szabo.jpg",
+    "github": "https://github.com/MirSzabo",
+    "linkedin": "www.linkedin.com/in/miroslava-szabo-b21a6771",
+    "pdfCV": "/static/alumni/cv/szabo.pdf",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Sass",
+      "Firebase",
+      "Swagger",
+      "Git"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-04-2020"
   }
 ]
