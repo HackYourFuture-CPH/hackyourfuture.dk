@@ -1,25 +1,32 @@
 import styles from './curriculum.scss'
 import React from 'react'
-import modules from './curriculum.json'
+import { useContentfulEntryId } from '../../contentful-hooks'
 
-const Curriculum = () => (
-  <div className='curriculum'>
-    <style jsx>{styles}</style>
-    <ul>
-      {
-        modules.map(module => (
-          <li key={module.id}>
-            <h3>
-              {module.title}
-            </h3>
-            <span>
-              {module.duration}
-            </span>
-          </li>
-        ))
+const Curriculum = () => {
+  const curriculumEntryId = '5iMQfQkm1sJoBdiBZArNLE'
+  const { content: modules } = useContentfulEntryId(curriculumEntryId)
+
+  return (
+    <div className='curriculum'>
+      <style jsx>{styles}</style>
+      {modules &&
+        <ul>
+          {
+            modules.curriculum.map(module => (
+              <li key={module.id}>
+                <h3>
+                  {module.title}
+                </h3>
+                <span>
+                  {module.duration}
+                </span>
+              </li>
+            ))
+          }
+        </ul>
       }
-      </ul>
-  </div>
-)
+    </div>
+  )
+}
 
 export default Curriculum
