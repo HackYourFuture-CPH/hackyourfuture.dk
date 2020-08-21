@@ -588,5 +588,33 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "29-01-2020"
+  },
+  {
+    "id": 34,
+    "roles": ["alumni"],
+    "name": "Sowmya Mannem",
+    "email": "sowmyamannemr@gmail.com",
+    "photo": "/static/alumni/photos/sowmya.jpg",
+    "github": "https://github.com/sowmya1408",
+    "linkedin": "https://www.linkedin.com/in/sowmyamannem/",
+    "pdfCV": "/static/alumni/cv/sowmya_mannem.pdf",
+    "onlineCV": "https://sowmyamannem-portfolio.herokuapp.com/",
+    "skills": [
+      "JS",
+      "React",
+      "Knex.js",
+      "Express.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Typescript",
+      "storybook",
+      "Firebase",
+      "Git",
+      "Microsoft Azure"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-04-2020"
   }
 ]
