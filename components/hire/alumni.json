@@ -559,5 +559,18 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "08-07-2020"
+  },
+  {
+    "id": 34,
+    "roles": ["alumni"],
+    "name": "Rufaida Jumaa",
+    "email": "eng.rufaidajumaa@gmail.com",
+    "photo": "/static/alumni/photos/rufaida.jpg",
+    "github": "https://github.com/rufaidaju",
+    "onlineCV": "/static/alumni/cv/rufaida.pdf",
+    "linkedin": "https://www.linkedin.com/in/rufaida-jumaa-a15ba4142",
+    "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","Sitecore","Umbraco","Bootstrap"],
+    "status": "looking for jobs",
+    "graduationDate": "14-01-2018"
   }
 ]
