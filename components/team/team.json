@@ -418,5 +418,14 @@
     "photo": "/static/team/vladyslavzavalykhatko.jpg",
     "linkedin": "https://www.linkedin.com/in/vladyslav-zavalykhatko-415331a9/",
     "github": "https://github.com/Hatko"
+  },
+  {
+    "id": 50,
+    "name": "Braedon Gough",
+    "roles": ["mentor"],
+    "roleDescription": "Mentor",
+    "photo": "/static/team/braedon.jpg",
+    "linkedin": "https://www.linkedin.com/in/braedon-gough-ba92a048/",
+    "github": "https://github.com/braedongough"
   }
 ]
