@@ -8,11 +8,13 @@
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^14.1.1",
     "@material-ui/core": "^4.5.2",
     "@material-ui/icons": "^4.5.1",
     "@mdi/js": "^3.5.95",
     "@mdi/react": "^1.1.0",
     "compression-webpack-plugin": "^3.1.0",
+    "contentful": "^7.14.6",
     "dotenv": "^8.2.0",
     "express": "^4.14.0",
     "express-sslify": "^1.2.0",
@@ -20,7 +22,7 @@
     "googleapis": "^39.2.0",
     "jss": "^9.8.7",
     "marked": "^0.7.0",
-    "next": "^9.2.1",
+    "next": "^9.4.4",
     "node-sass": "^4.13.1",
     "prop-types": "^15.6.2",
     "react": "^16.12.0",

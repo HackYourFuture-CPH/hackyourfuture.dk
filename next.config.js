@@ -19,9 +19,13 @@ module.exports = {
     if (config.mode === 'production') {
       config.plugins.push(
         new CompressionPlugin(),
-      ); 
+      );
     }
-    
+
     return config
-  }
+  },
+  env: {
+    CTF_SPACE_ID: process.env.CTF_SPACE_ID,
+    CTF_ACCESS_TOKEN: process.env.CTF_ACCESS_TOKEN
+  },
 }

@@ -561,6 +561,90 @@
     "graduationDate": "08-07-2020"
   },
   {
+    "id": 33,
+    "roles": ["alumni"],
+    "name": "Olha Afanasieva",
+    "email": "afanasievaolja@gmail.com",
+    "photo": "/static/alumni/photos/olha_afanasieva.jpg",
+    "github": "https://github.com/OlkaA",
+    "pdfCV": "/static/alumni/cv/olha_afanasieva.pdf",
+    "onlineCV": "https://olkaa.github.io",
+    "linkedin": "https://www.linkedin.com/in/olha-afanasieva/",
+    "skills": [
+      "JS",
+      "Vue",
+      "React",
+      "HTML",
+      "CSS",
+      "Sass",
+      "Bootstrap",
+      "Vuetify",
+      "Git",
+      "Node.js",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "Firebase"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-01-2020"
+  },
+  {
+    "id": 36,
+    "roles": ["alumni"],
+    "name": "Sowmya Mannem",
+    "email": "sowmyamannemr@gmail.com",
+    "photo": "/static/alumni/photos/sowmya.jpg",
+    "github": "https://github.com/sowmya1408",
+    "linkedin": "https://www.linkedin.com/in/sowmyamannem/",
+    "pdfCV": "/static/alumni/cv/sowmya_mannem.pdf",
+    "onlineCV": "https://sowmyamannem-portfolio.herokuapp.com/",
+    "skills": [
+      "JS",
+      "React",
+      "Knex.js",
+      "Express.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Typescript",
+      "storybook",
+      "Firebase",
+      "Git",
+      "Microsoft Azure"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-04-2020"
+  },
+  {
+    "id": 34,
+    "roles": ["alumni"],
+    "name": "Miroslava Szabo",
+    "email": "poradova.m@gmail.com",
+    "photo": "/static/alumni/photos/szabo.jpg",
+    "github": "https://github.com/MirSzabo",
+    "linkedin": "https://www.linkedin.com/in/miroslava-szabo-b21a6771",
+    "pdfCV": "/static/alumni/cv/szabo.pdf",
+    "onlineCV": "https://portfolio-mirszabo.herokuapp.com/",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Sass",
+      "Firebase",
+      "Swagger",
+      "Git"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-04-2020"
+  },
+  {
     "id": 35,
     "roles": ["alumni"],
     "name": "Rufaida Jumaa",
@@ -573,4 +657,5 @@
     "status": "looking for jobs",
     "graduationDate": "14-01-2018"
   }
+
 ]

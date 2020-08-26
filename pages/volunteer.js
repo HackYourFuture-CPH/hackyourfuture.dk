@@ -1,21 +1,21 @@
 import Head from 'next/head'
-import marked from 'marked'
 import Layout from '../components/layouts/layout'
 import Content from '../components/layouts/content/content'
 import Contactform from '../components/contact-form/contact-form'
 import { MentorsTeam } from '../components/team/team'
-import { content, title } from '../components/content/_mentors'
 import Partners from '../components/partners/partners'
 import Curriculum from '../components/curriculum/curriculum'
 import FAQ from '../components/faq/faq-mentors'
+import { fetchPageContent } from '../contentful'
+import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
-export default () => (
+export default ({ content, title }) => (
   <Layout>
     <Head>
       <title>{title}</title>
     </Head>
     <Content>
-      <div dangerouslySetInnerHTML={{ __html: marked(content) }} />
+      <div>{documentToReactComponents(content)}</div>
       <Curriculum />
 
       <h2 id='becoming-mentor'>Would you like to help?</h2>
@@ -31,3 +31,12 @@ export default () => (
     <Partners />
   </Layout>
 )
+export async function getStaticProps() {
+  const pageContent = await fetchPageContent('4D9bygQz21rkPZtsRb8ccr')
+
+  return {
+    props: {
+      title: pageContent.headline, content: pageContent.mainBody
+    }
+  }
+}
