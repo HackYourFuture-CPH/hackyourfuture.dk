@@ -10,7 +10,8 @@
     "linkedin": "https://www.linkedin.com/in/katongole-isaac-2b27b6170/",
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
-    "graduationDate": "02-09-2018"
+    "graduationDate": "02-09-2018",
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "linkedin": "https://www.linkedin.com/in/richard-paredes/",
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "employed",
-    "graduationDate": "25-11-2018"
+    "graduationDate": "25-11-2018",
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 3,
@@ -53,7 +55,8 @@
       "GraphQL"
     ],
     "status": "looking for jobs",
-    "graduationDate": "02-06-2018"
+    "graduationDate": "02-06-2018",
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 4,
@@ -84,7 +87,8 @@
     ],
     "status": "employed",
     "company": "SocialTechProject",
-    "graduationDate": "02-06-2018"
+    "graduationDate": "02-06-2018",
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 5,
@@ -97,7 +101,8 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "employed",
     "company": "Peytz & Co",
-    "graduationDate": "25-11-2018"
+    "graduationDate": "25-11-2018",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 6,
@@ -109,7 +114,8 @@
     "linkedin": "https://www.linkedin.com/in/samyarmodabber/",
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
-    "graduationDate": "25-11-2018"
+    "graduationDate": "25-11-2018",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 7,
@@ -122,7 +128,8 @@
     "linkedin": "https://www.linkedin.com/in/johanna-may-baguio-a8aa90174/",
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
-    "graduationDate": "02-06-2019"
+    "graduationDate": "02-06-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 8,
@@ -135,7 +142,8 @@
     "linkedin": "https://www.linkedin.com/in/neerthapa/",
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "employed",
-    "graduationDate": "27-01-2019"
+    "graduationDate": "27-01-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 9,
@@ -148,7 +156,8 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "company": "Mytheresa.com",
     "status": "employed",
-    "graduationDate": "27-01-2019"
+    "graduationDate": "27-01-2019", 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 10,
@@ -161,7 +170,8 @@
     "linkedin": "https://www.linkedin.com/in/asma-s-chudhary-4249a815/",
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
-    "graduationDate": "01-09-2018"
+    "graduationDate": "01-09-2018",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 11,
@@ -184,7 +194,8 @@
       "UFT/QTP"
     ],
     "status": "looking for jobs",
-    "graduationDate": "11-08-2019"
+    "graduationDate": "11-08-2019", 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 12,
@@ -213,7 +224,8 @@
       "Hetzner"
     ],
     "status": "employed",
-    "graduationDate": "11-06-2018"
+    "graduationDate": "11-06-2018",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 13,
@@ -235,7 +247,8 @@
       "HighCharts/React-HighCharts"
     ],
     "status": "looking for jobs",
-    "graduationDate": "11-08-2019"
+    "graduationDate": "11-08-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 14,
@@ -257,7 +270,8 @@
     "github": "https://github.com/nmoskaleva",
     "linkedin": "https://www.linkedin.com/in/nmoskaleva",
     "status": "looking for jobs",
-    "graduationDate": "11-08-2019"
+    "graduationDate": "11-08-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 15,
@@ -280,7 +294,8 @@
     "pdfCV": "/static/alumni/cv/Keerthi.pdf",
     "onlineCV": "https://keerthi1822.github.io/Resume/",
     "status": "looking for jobs",
-    "graduationDate": "11-08-2019"
+    "graduationDate": "11-08-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 16,
@@ -301,7 +316,8 @@
       "Node.js"
     ],
     "status": "employed",
-    "graduationDate": "11-08-2019"
+    "graduationDate": "11-08-2019", 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 17,
@@ -323,7 +339,8 @@
       "Node.js"
     ],
     "status": "looking for jobs",
-    "graduationDate": "11-08-2019"
+    "graduationDate": "11-08-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 18,
@@ -346,7 +363,8 @@
       "Jest"
     ],
     "status": "employed",
-    "graduationDate": "11-08-2019"
+    "graduationDate": "11-08-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 19,
@@ -370,7 +388,8 @@
       "SAS"
     ],
     "status": "looking for jobs",
-    "graduationDate": "23-10-2019"
+    "graduationDate": "23-10-2019", 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 20,
@@ -394,7 +413,8 @@
       "React"
     ],
     "status": "looking for jobs",
-    "graduationDate": "23-10-2019"
+    "graduationDate": "23-10-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 21,
@@ -418,7 +438,8 @@
       "Jest"
     ],
     "status": "looking for jobs",
-    "graduationDate": "23-10-2019"
+    "graduationDate": "23-10-2019",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 22,
@@ -429,7 +450,8 @@
     "company": "Worthmore",
     "photo": "/static/team/abdulrahman.jpg",
     "linkedin": "https://www.linkedin.com/in/ramadan46/",
-    "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"]
+    "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 23,
@@ -440,7 +462,8 @@
     "company": "Karnov Group",
     "photo": "/static/team/zoey.jpg",
     "linkedin": "https://www.linkedin.com/in/zoeyzou2018/",
-    "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"]
+    "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 24,
@@ -451,7 +474,8 @@
     "company": "Kruso",
     "photo": "/static/team/hala.jpg",
     "linkedin": "https://www.linkedin.com/in/hala-qasim-009451155/",
-    "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"]
+    "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"],
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 25,
@@ -477,7 +501,8 @@
       "TS"
     ],
     "status": "looking for jobs",
-    "graduationDate": "29-04-2020"
+    "graduationDate": "29-04-2020",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 26,
@@ -504,7 +529,8 @@
       "Firebase"
     ],
     "status": "looking for jobs",
-    "graduationDate": "29-01-2020"
+    "graduationDate": "29-01-2020",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 27,
@@ -529,7 +555,8 @@
       "sass"
     ],
     "status": "looking for jobs",
-    "graduationDate": "29-04-2020"
+    "graduationDate": "29-04-2020",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 28,
@@ -558,7 +585,8 @@
       "Git"
     ],
     "status": "looking for jobs",
-    "graduationDate": "08-07-2020"
+    "graduationDate": "08-07-2020",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 29,
@@ -587,7 +615,8 @@
       "Firebase"
     ],
     "status": "looking for jobs",
-    "graduationDate": "29-01-2020"
+    "graduationDate": "29-01-2020",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 30,
@@ -615,7 +644,8 @@
       "Microsoft Azure"
     ],
     "status": "looking for jobs",
-    "graduationDate": "29-04-2020"
+    "graduationDate": "29-04-2020", 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 31,
@@ -642,7 +672,8 @@
       "Git"
     ],
     "status": "looking for jobs",
-    "graduationDate": "29-04-2020"
+    "graduationDate": "29-04-2020",
+    "lastUpdateDate": "01-09-2020"    
   },
   {
     "id": 32,
@@ -655,7 +686,7 @@
     "linkedin": "https://www.linkedin.com/in/rufaida-jumaa-a15ba4142",
     "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","Sitecore","Umbraco","Bootstrap"],
     "status": "looking for jobs",
-    "graduationDate": "14-01-2018"
+    "graduationDate": "14-01-2018",
+    "lastUpdateDate": "01-09-2020"    
   }
-
 ]
