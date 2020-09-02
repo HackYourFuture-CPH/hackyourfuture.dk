@@ -656,6 +656,42 @@
     "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","Sitecore","Umbraco","Bootstrap"],
     "status": "looking for jobs",
     "graduationDate": "14-01-2018"
+  },
+  {
+    "id": 33,
+    "roles": ["alumni"],
+    "name": "Priyanka",
+    "email": "priyankaps131187@gmail.com",
+    "photo": "/static/alumni/photos/priyanka.jpg",
+    "github": "https://github.com/priyankapandey13",
+    "linkedin": "https://www.linkedin.com/in/priyanka-sharma-b882121a/",
+    "pdfCV": "/static/alumni/cv/priyanka.pdf",
+    "onlineCV": "https://priyankasharma.netlify.app/",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Git",
+      "Knex.js",
+      "Express.js",
+      "Storybook",
+      "Swagger",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "SASS",
+      "Bootstrap",
+      "React-Bootstrap",
+      "Adobe package",
+      "Heroku",
+      "Wordpress",
+      "Green Sock",
+      "Typescript",
+      "Web Design",
+      "App Design",
+      "Prototyping"],
+    "status": "looking for jobs",
+    "graduationDate": "08-07-2020"
   }
 
 ]
