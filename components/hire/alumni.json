@@ -656,6 +656,20 @@
     "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","Sitecore","Umbraco","Bootstrap"],
     "status": "looking for jobs",
     "graduationDate": "14-01-2018"
+  },
+  {
+    "id": 33,
+    "roles": ["alumni"],
+    "name": "Mohammad Alshoker",
+    "email": "myshuker@gmail.com",
+    "photo": "/static/alumni/photos/mohammad.jpg",
+    "github": "https://github.com/myshuker",
+    "onlineCV": "/static/alumni/cv/mohammad.pdf",
+    "linkedin": "https://www.linkedin.com/in/mohammad-alshoker-365376b8/",
+    "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","MogoDB","SASS","Heroku","PLC Programming","Swagger"],
+    "status": "looking for jobs",
+    "graduationDate": "08-07-2020",
+    "lastUpdateDate": "04-09-2020" 
   }
-
 ]
+
