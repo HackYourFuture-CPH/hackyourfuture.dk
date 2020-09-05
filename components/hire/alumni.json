@@ -656,6 +656,33 @@
     "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","Sitecore","Umbraco","Bootstrap"],
     "status": "looking for jobs",
     "graduationDate": "14-01-2018"
+  },
+  {
+    "id": 34,
+    "roles": ["alumni"],
+    "name": "John Alyazji",
+    "email": "john.yazji@gmail.com",
+    "photo": "/static/alumni/photos/John.jpeg",
+    "github": "https://github.com/JohnYazji",
+    "linkedin": "https://www.linkedin.com/in/john-alyazji",
+    "pdfCV": "/static/alumni/cv/JohnAlyazji.pdf",
+    "onlineCV": "https://portfolio-mirszabo.herokuapp.com/",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Swagger",
+      "storybook",
+      "Git"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "08-07-2020"
   }
 
 ]
