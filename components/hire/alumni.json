@@ -11,7 +11,7 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
     "graduationDate": "02-09-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "employed",
     "graduationDate": "25-11-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 3,
@@ -56,7 +56,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "02-06-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 4,
@@ -88,7 +88,7 @@
     "status": "employed",
     "company": "SocialTechProject",
     "graduationDate": "02-06-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
     "status": "employed",
     "company": "Peytz & Co",
     "graduationDate": "25-11-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 6,
@@ -115,7 +115,7 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
     "graduationDate": "25-11-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 7,
@@ -129,7 +129,7 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
     "graduationDate": "02-06-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 8,
@@ -143,7 +143,7 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "employed",
     "graduationDate": "27-01-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "company": "Mytheresa.com",
     "status": "employed",
     "graduationDate": "27-01-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 10,
@@ -171,7 +171,7 @@
     "skills": ["JS", "Express.js", "MySQL", "React", "HTML", "CSS", "Node.js"],
     "status": "looking for jobs",
     "graduationDate": "01-09-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 11,
@@ -195,7 +195,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "11-08-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 12,
@@ -225,7 +225,7 @@
     ],
     "status": "employed",
     "graduationDate": "11-06-2018",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 13,
@@ -248,7 +248,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "11-08-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 14,
@@ -271,7 +271,7 @@
     "linkedin": "https://www.linkedin.com/in/nmoskaleva",
     "status": "looking for jobs",
     "graduationDate": "11-08-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 15,
@@ -295,7 +295,7 @@
     "onlineCV": "https://keerthi1822.github.io/Resume/",
     "status": "looking for jobs",
     "graduationDate": "11-08-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 16,
@@ -317,7 +317,7 @@
     ],
     "status": "employed",
     "graduationDate": "11-08-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 17,
@@ -340,7 +340,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "11-08-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 18,
@@ -364,7 +364,7 @@
     ],
     "status": "employed",
     "graduationDate": "11-08-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 19,
@@ -389,7 +389,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "23-10-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 20,
@@ -414,7 +414,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "23-10-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 21,
@@ -439,7 +439,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "23-10-2019",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 22,
@@ -451,7 +451,7 @@
     "photo": "/static/team/abdulrahman.jpg",
     "linkedin": "https://www.linkedin.com/in/ramadan46/",
     "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"],
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 23,
@@ -463,7 +463,7 @@
     "photo": "/static/team/zoey.jpg",
     "linkedin": "https://www.linkedin.com/in/zoeyzou2018/",
     "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"],
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 24,
@@ -475,7 +475,7 @@
     "photo": "/static/team/hala.jpg",
     "linkedin": "https://www.linkedin.com/in/hala-qasim-009451155/",
     "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"],
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 25,
@@ -502,7 +502,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "29-04-2020",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 26,
@@ -530,7 +530,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "29-01-2020",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 27,
@@ -556,7 +556,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "29-04-2020",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 28,
@@ -586,7 +586,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "08-07-2020",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 29,
@@ -616,7 +616,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "29-01-2020",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 30,
@@ -645,7 +645,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "29-04-2020",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 31,
@@ -673,7 +673,7 @@
     ],
     "status": "looking for jobs",
     "graduationDate": "29-04-2020",
-    "lastUpdateDate": "01-09-2020" 
+    "lastUpdateDate": "01-09-2020"
   },
   {
     "id": 32,
@@ -684,9 +684,50 @@
     "github": "https://github.com/rufaidaju",
     "onlineCV": "/static/alumni/cv/rufaida.pdf",
     "linkedin": "https://www.linkedin.com/in/rufaida-jumaa-a15ba4142",
-    "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","Sitecore","Umbraco","Bootstrap"],
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Git",
+      "Knex.js",
+      "Express.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Sitecore",
+      "Umbraco",
+      "Bootstrap"
+    ],
     "status": "looking for jobs",
     "graduationDate": "14-01-2018",
-    "lastUpdateDate": "01-09-2020"    
+    "lastUpdateDate": "01-09-2020"
+  },
+  {
+    "id": 35,
+    "roles": ["alumni"],
+    "name": "Amer Dahabi",
+    "email": "aamerdahabi@gmail.com",
+    "photo": "/static/alumni/photos/amer.png",
+    "github": "https://github.com/amerdahabi",
+    "onlineCV": "/static/alumni/cv/Amer_Dahabi.pdf",
+    "linkedin": "https://www.linkedin.com/in/amer-dahabi-2193131aa/",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Git",
+      "Knex.js",
+      "Express.js",
+      "MySQL",
+      "Postman",
+      "MongoDB",
+      "Storybook",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "08-07-2020",
+    "lastUpdateDate": "06-09-2020"
   }
 ]
