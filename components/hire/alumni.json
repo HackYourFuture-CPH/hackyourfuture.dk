@@ -690,6 +690,32 @@
     "lastUpdateDate": "01-09-2020"    
   },
   {
+    "id": 34,
+    "roles": ["alumni"],
+    "name": "John Alyazji",
+    "email": "john.yazji@gmail.com",
+    "photo": "/static/alumni/photos/John.jpeg",
+    "github": "https://github.com/JohnYazji",
+    "linkedin": "https://www.linkedin.com/in/john-alyazji/",
+    "pdfCV": "/static/alumni/cv/JohnAlyazji.pdf",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Knex.js",
+      "Express.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Swagger",
+      "Storybook",
+      "Git"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "08-07-2020",
+    "lastUpdateDate": "05-09-2020" 
+  },
+  {
     "id": 33,
     "roles": ["alumni"],
     "name": "Mohammad Alshoker",
