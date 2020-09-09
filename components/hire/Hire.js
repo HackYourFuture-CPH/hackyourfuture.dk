@@ -12,6 +12,7 @@ class Hire extends React.Component {
     selectedStatus: [],
     uniqueStatuses: [],
     alumniList: alumniList.filter(alumni => {
+      // Added condition to also filter profile which is not updated from last 6months 
       const todayDate = new Date()
       const dateToArray = alumni.lastUpdateDate.split('-')
       const formatedDateString = new Date(
