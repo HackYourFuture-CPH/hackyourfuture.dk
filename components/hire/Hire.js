@@ -11,9 +11,18 @@ class Hire extends React.Component {
     selectedSkills: [],
     selectedStatus: [],
     uniqueStatuses: [],
-    alumniList: alumniList.filter(
-      alumni => alumni.status === 'looking for jobs'
-    )
+    alumniList: alumniList.filter(alumni => {
+      const todayDate = new Date()
+      const dateToArray = alumni.lastUpdateDate.split('-')
+      const formatedDateString = new Date(
+        `${dateToArray[2]}-${dateToArray[1]}-${dateToArray[0]}`
+      )
+      return (
+        alumni.status === 'looking for jobs' &&
+        formatedDateString >
+          new Date(todayDate.getTime() - 24 * 60 * 60 * 1000 * 182.5)
+      )
+    })
   }
 
   componentDidMount() {
