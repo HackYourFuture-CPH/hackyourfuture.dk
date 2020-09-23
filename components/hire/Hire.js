@@ -29,8 +29,8 @@ class Hire extends React.Component {
   componentDidMount() {
     let skills = []
     let statuses = []
-
-    this.state.alumniList.forEach(alumni => {
+// Applying this to the original alumnilist
+    alumniList.forEach(alumni => {
       skills = [...skills, ...alumni.skills]
       statuses = [...statuses, alumni.status]
     })
