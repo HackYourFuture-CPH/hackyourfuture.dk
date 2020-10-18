@@ -139,6 +139,7 @@
     "id": 13,
     "roles": ["alumni"],
     "name": "Marco De Cara",
+    "photo": "/static/alumni/photos/marco.jpg",
     "email": "marcodecara@gmail.com",
     "github": "https://github.com/marcodca",
     "onlineCV": "https://www.marcodecara.com/",
