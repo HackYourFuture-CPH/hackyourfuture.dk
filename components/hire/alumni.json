@@ -724,7 +724,7 @@
     "github": "https://github.com/myshuker",
     "onlineCV": "/static/alumni/cv/mohammad.pdf",
     "linkedin": "https://www.linkedin.com/in/mohammad-alshoker-365376b8/",
-    "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","MogoDB","SASS","Heroku","Figma","PLC Programming","Swagger"],
+    "skills": ["JS","React","Node.js","Git","Knex.js","Express.js","MySQL","HTML","CSS","MongoDB","SASS","Heroku","Figma","PLC Programming","Swagger"],
     "status": "looking for jobs",
     "graduationDate": "08-07-2020",
     "lastUpdateDate": "07-09-2020" 
