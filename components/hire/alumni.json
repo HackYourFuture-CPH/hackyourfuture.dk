@@ -758,5 +758,31 @@
     "status": "looking for jobs",
     "graduationDate": "08-07-2020",
     "lastUpdateDate": "23-09-2020" 
+  },{
+    "id": 36,
+    "roles": ["alumni"],
+    "name": "Mamatha Mereddy",
+    "email": "mamathavangala1@gmail.com",
+    "photo": "/static/alumni/photos/mamatha.jpg",
+    "github": "https://github.com/mamathamereddy",
+    "linkedin": "https://www.linkedin.com/in/mereddy-mamatha/",
+    "pdfCV": "/static/alumni/cv/mamatha.pdf",
+    "onlineCV": "https://mamatha-portfolio.netlify.app/",
+    "skills": [
+      "JS",
+      "React",
+      "ReactNative",
+      "Node.js",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Wordpress",
+      "Git"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "29-04-2020",
+    "lastUpdateDate": "23-10-2020" 
   }
 ]
