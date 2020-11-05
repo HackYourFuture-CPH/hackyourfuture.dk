@@ -72,7 +72,11 @@ class Hire extends React.Component {
       newAlumniList = newAlumniList.filter(alumni =>
         this.state.selectedStatus.every(s => alumni.status === s)
       )
+<<<<<<< HEAD
     }     
+=======
+    }
+>>>>>>> parent of 77fcc43... added filter on newALumniList  not to show profiles which are not updated from last 6months when selected skills is empty
     this.setState({ alumniList: newAlumniList })
   }
 
