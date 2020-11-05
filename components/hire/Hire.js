@@ -49,7 +49,18 @@ class Hire extends React.Component {
   doFiltering = () => {
     // by default: all alumni list
     let newAlumniList = alumniList.filter(
-      alumni => alumni.status === 'looking for jobs'
+      alumni => {
+        const todayDate = new Date()
+        const dateToArray = alumni.lastUpdateDate.split('-')
+        const formatedDateString = new Date(
+          `${dateToArray[2]}-${dateToArray[1]}-${dateToArray[0]}`
+        )
+        return (
+          alumni.status === 'looking for jobs' &&
+          formatedDateString >
+            new Date(todayDate.getTime() - 24 * 60 * 60 * 1000 * 182.5)
+        )
+      }
     )
     // if any filter by skills button is clicked, then filter by skills
     if (this.state.selectedSkills.length !== 0) {
@@ -61,21 +72,7 @@ class Hire extends React.Component {
       newAlumniList = newAlumniList.filter(alumni =>
         this.state.selectedStatus.every(s => alumni.status === s)
       )
-    } 
-    if(this.state.selectedSkills.length === 0) {
-      newAlumniList = newAlumniList.filter(alumni => {
-        // Added condition to also filter profile which is not updated from last 6months once the skills are filtered
-        const todayDate = new Date()
-        const dateToArray = alumni.lastUpdateDate.split('-')
-        const formatedDateString = new Date(
-          `${dateToArray[2]}-${dateToArray[1]}-${dateToArray[0]}`
-        )
-        return (
-          formatedDateString >
-            new Date(todayDate.getTime() - 24 * 60 * 60 * 1000 * 182.5)
-        )
-      })
-    }
+    }     
     this.setState({ alumniList: newAlumniList })
   }
 
