@@ -879,5 +879,33 @@
     "status": "employed",
     "graduationDate": "29-04-2020",
     "lastUpdateDate": "14-01-2021"
+  },
+  {
+  "id": 39,
+    "roles": ["alumni"],
+    "name": "Nouha Najah",
+    "email": "nuhanajah90@gmail.com",
+    "photo": "/static/alumni/photos/nouha.jpg",
+    "github": "https://github.com/nuha90",
+    "linkedin": "https://www.linkedin.com/in/nouha-najah-90/",
+    "skills": [
+      "JS",
+      "React",
+      "Node.js",
+      "Vue",
+      "HTML",
+      "CSS",
+      "Storybook",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "Heroku",
+      "Postman",
+      "Swagger",
+      "Git"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-01-2021",
+    "lastUpdateDate": "17-01-2021"
   }
 ]
