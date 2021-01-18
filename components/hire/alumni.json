@@ -879,5 +879,36 @@
     "status": "employed",
     "graduationDate": "29-04-2020",
     "lastUpdateDate": "14-01-2021"
+  },
+  {
+    "id": 39,
+    "roles": ["alumni"],
+    "name": "Maher Hussain",
+    "email": "maherhussain6@gmail.com",
+    "photo": "/static/alumni/photos/maher-hussain.jpg",
+    "github": "https://github.com/Maherhussain",
+    "pdfCV": "/static/alumni/cv/Cv-Maher.pdf",
+    "linkedin": "https://www.linkedin.com/in/maher-hussain/",
+    "skills": [
+      "JS",
+      "Express.js",
+      "MySQL",
+      "Swagger",
+      "React",
+      "Heroku",
+      "Knex.js",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "Storybook",
+      "Git",
+      "Bootstrap",
+      "WordPress",
+      "Umbraco",
+      "Asp.net MVC5"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-01-2021",
+    "lastUpdateDate": "18-01-2021"
   }
 ]
