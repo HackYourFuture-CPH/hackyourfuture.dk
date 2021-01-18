@@ -885,9 +885,9 @@
     "roles": ["alumni"],
     "name": "Maher Hussain",
     "email": "maherhussain6@gmail.com",
-    "photo": "/static/alumni/photos/maher-hussain.jpg",
+    "photo": "/static/alumni/photos/maher.jpg",
     "github": "https://github.com/Maherhussain",
-    "pdfCV": "/static/alumni/cv/Cv-Maher.pdf",
+    "pdfCV": "/static/alumni/cv/maher.pdf",
     "linkedin": "https://www.linkedin.com/in/maher-hussain/",
     "skills": [
       "JS",
@@ -907,7 +907,7 @@
       "Umbraco",
       "Asp.net MVC5"
     ],
-    "status": "looking for jobs",
+    "status": "looking for job",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "18-01-2021"
   }
