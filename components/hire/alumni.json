@@ -966,5 +966,28 @@
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "27-01-2021"
+  },
+  {
+    "id": 43,
+    "roles": ["alumni"],
+    "name": "Anil Kumar Mula",
+    "email": "anilreddymula@gmail.com",
+    "photo": "/static/alumni/photos/anil.jpg",
+    "pdfCV": "/static/alumni/cv/anil.pdf",
+    "github": "https://github.com/AnilMula",
+    "linkedin": "https://www.linkedin.com/in/anil-kumar-mula-56729475/",
+    "skills": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Mongo DB"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-01-2021",
+    "lastUpdateDate": "20-02-2021"
   }
 ]
