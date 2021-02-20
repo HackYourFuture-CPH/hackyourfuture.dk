@@ -966,5 +966,38 @@
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "27-01-2021"
+  },
+  {
+    "id": 42,
+    "roles": ["alumni"],
+    "name": "Deepti Sharma",
+    "email": "deepti.sharma@gmail.com",
+    "photo": "/static/alumni/photos/DeeptiSharma",
+    "pdfCV": "/static/alumni/cv/DeeptiSharma.pdf",
+    "github": "https://github.com/Deepti-Dk",
+    "linkedin": "https://www.linkedin.com/in/deeptishrma",
+    "skills": [
+      "UX design",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JS",
+      "C#",
+      "Asp.net MVC5",
+      "React",
+      "Node.js",      
+      "MySQL",
+      "Microsoft Visual Studio 2019",
+      "Git",
+      "Figma",
+      "Knex.js",
+      "Heroku",
+      "Postman",
+      "Storybook",
+      "Swagger"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-01-2021",
+    "lastUpdateDate": "18-02-2021"
   }
 ]
