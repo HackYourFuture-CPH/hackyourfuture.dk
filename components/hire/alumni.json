@@ -940,7 +940,7 @@
   {
     "id": 41,
     "roles": ["alumni"],
-    "name": "Elias Weldemichael Hussain",
+    "name": "Elias Weldemichael",
     "email": "holeselv17@gmail.com",
     "photo": "/static/alumni/photos/elias.jpg",
     "pdfCV": "/static/alumni/cv/Elias.pdf",
@@ -960,11 +960,10 @@
       "Heroku",
       "Postman",
       "Swagger",
-      "Git",
-      "Github"
+      "Git"
     ],
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
-    "lastUpdateDate": "27-01-2021"
+    "lastUpdateDate": "23-02-2021"
   }
 ]
