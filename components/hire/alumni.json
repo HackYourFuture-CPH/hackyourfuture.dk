@@ -697,7 +697,7 @@
       "Umbraco",
       "Bootstrap"
     ],
-    "status": "looking for jobs",
+    "status": "employed",
     "graduationDate": "14-01-2018",
     "lastUpdateDate": "01-09-2020"
   },
@@ -965,5 +965,62 @@
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "23-02-2021"
+  },
+  {
+    "id": 43,
+    "roles": ["alumni"],
+    "name": "Deepti Sharma",
+    "email": "deepti.sharma@gmail.com",
+    "photo": "/static/alumni/photos/Deepti.jpg",
+    "pdfCV": "/static/alumni/cv/Deepti.pdf",
+    "github": "https://github.com/Deepti-Dk",
+    "linkedin": "https://www.linkedin.com/in/deeptishrma",
+    "skills": [
+      "UX design",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JS",
+      "React",
+      "Asp.net MVC5",
+      "C#",
+      "Node.js",
+      "Microsoft Visual Studio 2019",
+      "Storybook",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "Heroku",
+      "Postman",
+      "Swagger",
+      "Git",
+      "Figma"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-01-2021",
+    "lastUpdateDate": "21-02-2021"
+  },
+  {
+    "id": 42,
+    "roles": ["alumni"],
+    "name": "Anil Kumar Mula",
+    "email": "anilreddymula@gmail.com",
+    "photo": "/static/alumni/photos/anil.png",
+    "pdfCV": "/static/alumni/cv/anil.pdf",
+    "github": "https://github.com/AnilMula",
+    "linkedin": "https://www.linkedin.com/in/anil-kumar-mula-56729475/",
+    "skills": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Mongo DB"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-01-2021",
+    "lastUpdateDate": "20-02-2021"
   }
 ]

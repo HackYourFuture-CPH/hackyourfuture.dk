@@ -46,7 +46,6 @@ const useStyles = makeStyles({
   }
 })
 
-
 // Link to the sheet: https://docs.google.com/spreadsheets/d/1KD6Dr9z5fxEzx-jxs84e0tBfpohTkup8GE4r3CC3qZA/edit#gid=0
 export default function Deadline() {
   const classes = useStyles()
@@ -56,9 +55,20 @@ export default function Deadline() {
     console.log('Failed to fetch deadline data', { error })
   }
 
-  const newClassNumber = data?.data[1][0]
-  const applicationDeadline = data?.data[1][1]
-  const newClassStart = data?.data[1][2]
+  let newClassNumber
+  if (data && data.data[1][0]) {
+    newClassNumber = data.data[1][0]
+  }
+
+  let applicationDeadline
+  if (data && data.data[1][1]) {
+    applicationDeadline = data.data[1][1]
+  }
+
+  let newClassStart
+  if (data && data.data[1][2]) {
+    newClassStart = data.data[1][2]
+  }
 
   const applicationEndDate = new Date(applicationDeadline).toLocaleString(
     'en',
