@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "HTML/CSS",
+        "duration": "3 weeks"
+    },
+    {
+        "id": 2,
+        "title": "Javascript 1",
+        "duration": "3 weeks"
+    },
+    {
+        "id": 3,
+        "title": "Javascript 2",
+        "duration": "3 weeks"
+    },
+    {
+        "id": 4,
+        "title": "Javascript 3",
+        "duration": "3 weeks"
+   },
+    {
+        "id": 5,
+        "title": "Databases",
+        "duration": "3 weeks"
+    },
+    {
+        "id": 6,
+        "title": "Node.js",
+        "duration": "5 weeks"
+    },
+    {
+        "id": 7,
+        "title": "React",
+        "duration": "5 weeks"
+    },
+    {
+        "id": 8,
+        "title": "Final project",
+        "duration": "7 weeks"
+    }
+]

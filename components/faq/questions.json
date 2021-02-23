@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "How does the selection process work?",
+    "answer": "In order to select the best candidates, we ask all applicants to complete a test assignment. No previous knowledge of coding is required, but you need to be able to use the internet reasonably well. The test requires about 30-40hrs of work and you will have 10 days to complete it. After that, we will invite the 30 top candidates for a phone interview and finally select the 15 final students who will join our program. We consider the results of your test assignment, analytical skills, your motivation to learn and determination to start a career as a developer."
+  },
+  {
+    "id": 2,
+    "question": "I don't live close to Copenhagen. Can I still apply?",
+    "answer": "We accept people living all over Denmark, and we can pay for transportation costs (train tickets) as well as we provide lunch and snacks on Sundays."
+  },
+  {
+    "id": 3,
+    "question": "I don't have a computer. Can I still apply?",
+    "answer": "You can borrow a computer from HackYourFuture when you are selected for the program. "
+  },
+  {
+    "id": 4,
+    "question": "What other activities can I expect from the program?",
+    "answer": "During the program you can get access to extra-curricular activities such as technology workshops, study groups, company visits and IT conferences."
+  },
+  {
+    "id": 5,
+    "question": "I am not a refugee. Can I still apply?",
+    "answer": "HackYourFuture's is a program for people who have limited access to higher education and the job market in Denmark and priority will always be given to refugees and asylum seekers. You are welcome to apply to the program, but please explain in your motivational letter why you believe you are disadvantaged in Denmark and need the HackYourFuture program. "
+  },
+  {
+    "id": 6,
+    "question": "Who do you consider as 'disadvantaged'?",
+    "answer": "We consider the following conditions when we select the candidates for a new class:<br><br>If the below situations for employment and education don’t apply to you, then we don’t directly consider you in our target group. In that case, please specify in your motivational letter why we should consider you.<br><br><strong>Education:</strong> You don’t have access to free education in Denmark; or, your existing degree is not recognised in Denmark.<br><strong>Unemployment:</strong> You have been unemployed for more than 6 months.<br><strong>Underemployment:</strong> You have been employed outside your field of education for more than 6 months."
+  },
+  {
+    "id": 7,
+    "question": "Can I get SU or other student benefits as a student of HackYourFututre?",
+    "answer": "HackYourFuture is organized as an Association (in Danish \"Forening\") and is not registered as an official educational institution in Denmark. This means that as a student of HackYourFuture, you currently can not get registered as a student in the Danish Educational System.<br><br> The negative aspect of this is that you currently can not get SU (https://www.su.dk/english/su-as-a-foreign-citizen/) or other student benefits when you are a student in HackYourFuture.<br><br> The positive aspect of this is that we don't have the same requirements as official education institutions in Denmark and we don't require you to have a CPR-number to start studying with us."
+  }
+]

@@ -1,0 +1,122 @@
+> - Delete the usersRouter.js
+✅ Done
+> - Apply.js has some weird state. gilad, jason and antoine, what is this?
+> - Apply.js line 46 oneline
+> - Apply.js line 180 oneline
+✅ They were coming from the example at material ui website. I deleted them and changed `gilad: true` to `haveComputer: true,`
+> - The phone number should have type telephone i think its called
+✅ Done (it is type='tel')
+> - All files in the components should be called what the folder is called, so contact-form should be called contact-form.js
+✅ Done
+> - contact form line 26 redundant when we only have one
+⚠ I did'nt find redundant line
+line 26 contains: `const { classes } = this.props`
+> - Remove all the &nbsp; and just style the svg to have left margin instead
+✅ Done
+> - Content apply.js line 2 fill bad name, where is it used?
+⚠ this is line 2 `import marked from 'marked'` what do you mean?
+> - Delete coding test
+✅ Done
+> - In all the content you export different ways, standardize that. I prefer returning the object way
+✅ Done
+> - newsletter content is a let, should be const (or is there a reason?)
+✅ Done (no reason)
+> - Delete sample.js
+✅ Done
+> - footer/sponsors/index.js the styling is weirdly indented
+✅ moved to `footer/sponsors/sponsors.scss` & indent reformat
+> - Sponsor line 50 is misspelled
+✅ Done (fixed in all places)
+> - The sponsors/new is not so good. Maybe the sponsors folder should be updated
+✅ Done
+> - The src in the src could be nice as string literal
+✅ replaced with template string
+> - The names of the images should be changed.
+⚠ which images
+> - The links should be updated with the relevant links
+⚠ ??
+> - Should the find us be part of the footer? I dont think it should.
+✅ moved to components folder
+> - ALL id's and classnames should be seperated with dash so contentExtra -> content-extra. They should ALL start with lowercase so Copyright -> copyright
+✅ Done. but classNames for material ui mast be camelCase
+> - Footer line 5 should not have a class called footer, we can get that from the just the footer
+✅ Done
+> - In the styling indent the styling, so the scope is more narrow: .footer {margin-top: 30px; .links {etc.}}
+⚠ where is this??
+> - Remove all unused styling
+⚠ I think there is no unused styling
+> - You style in different ways, why is that?
+✅ Material ui styling now using withStyles because we cannot style its components directly.
+    we could use styled-components package, but we already have withStyles for these components
+    otherwise with scss external jsx, and no internal styles
+    for conditional styling we have classNames
+> - I dont think the sponsors should be part of the footer.
+✅ Done
+> - Your footer classnames should be changed. Fx links contain a lot more than links and bottom is actually at the top.
+✅ Done
+> - Hire alumni.json we should stick with a naming of keys. You change it around. fx graduation_date onlineCV i think we should use camelCase so: onlineCV
+✅ Done
+> - Hire index.js: line 21 why are you desctructuring the skills array when it is empty?
+ ⚠  if you mean this line `skills = [...skills, ...alumni.skills]` I'm getting skills from `alumniList` and using destructuring to append skills to current empty array
+> - The same with the status list
+😃 also the same answer
+> - Line 26 should maybe be called unique skills and unique statusList?
+⚠ Later they will come from a database, so be default they will be unique,
+> - Line 33 you have to explain me. Its a little heavy.
+When we click on a skill (the buttons which contain skills), we are looking at the array `selectedSkills` if the clicked skill is not exists at this array we
+add it. then we are filtering the `alumniList` according to this `selectedSkills` by looping `selectedSkills` and checking if this alumni have this skill
+> - In general the filterHandler is tricky!
+YES sure, it will be very easy and simple when we add a database and use an api to update and filter alumni
+> - Line 93 why index + 1?
+✅ just to not start the id with zero, anyway I replaced them to be using uuid package to generate random ids
+> - Line 96 i would name selected. If it is selected it has the background color. The problem with the outlined and contained is that what if we want it to not be outlined when not selected. Then we need to change the name aswell. This we want to avoid
+`contained` and `outlined` are options of `variant` property which is coming from material ui. they refer to the style.
+> - Expansion panel line 22 and 23 is maybe a bit overkill
+✅ Done
+> - The layout content.js where are we using that?
+At most of `pages` it like `container` in bootstrap framework. All boxes contain text are wrapped with it
+> - layout.js line 65 there is some BEM there.
+✅ deleted. it was coming from Kevin legacy repo
+> - We should update the favicon
+✅ updated to the logo
+
+
+
+
+
+
+
+
+> - The navbar should show the elements on hover.
+> - What is the difference between the navMenu and the nav-bar?
+navMenu is the drop-down list. For example `about` is an item at nav-bar, but `[about, contact, partners]` are navMenu
+> - Consistent file naming. expansionPanel -> expansion-panel
+✅ Done
+> - All outcommented code should be removed
+✅ Done
+> - For the team.json there should be a key that defines is the members are core or not. Relying on people remembering the first 3 is core is difficult. And what if there comes more core people.
+✅ Done, filtered by `role`
+> - Item-card.js i think you can destructure in directly in the first destructure. But maybe that will be a little hard to read?
+we are using many of them several times
+> - Line 184 you have the role in the classname, why?
+I've been thinking about adding custom styling depending on role, anyway **deleted***
+> - zoomIn1 -> zoom-in-1
+✅ Done
+> - Line 210 you have to explain me
+⚠ which file
+> - mewsletter, where is that used?
+it is not used currently and comming from Kven repo. you can see it at https://hyf-dk.herokuapp.com/newsletter do you want to keep it or delete
+> - When opening a link in the navbar it hides the scroll or something weird. It results in the page going slightly to the left. Could be nice to fix.
+⚠ mmm, this is the default material ui behaviour
+> - What is the progressbar for?
+the read progress bar that appears upper navbar. Christopher asket to add it
+> - Pages dashboard?
+- Login?
+> - Newsletter?
+> - Privacy?
+> - We should figure out what to do with these pages, cause they are reachable just not with links
+Kevin added it. It looks like he was preparing to build a dashboard https://hyf-dk.herokuapp.com/dashboard
+do you prefer to remove all of them
+
+
+check meta tags for social media (twitter, facebook)

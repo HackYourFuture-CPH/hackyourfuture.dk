@@ -1,0 +1,31 @@
+$primary-color: #293a7d;
+
+.toggle-side-drawer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 24px;
+  width: 30px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  box-sizing: border-box;
+
+  @media (min-width: 769px) {
+    display: none;
+  }
+  @media (max-width: 769px) {
+    margin: auto 0 auto 1rem;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  div {
+    width: 30px;
+    height: 2px;
+    background: $primary-color;
+  }
+}

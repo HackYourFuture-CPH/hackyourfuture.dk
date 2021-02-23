@@ -1,0 +1,20 @@
+.team-members {
+  display: flex;
+  max-width: 900px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+
+  .shape {
+    transform: scale(3);
+    right: -20rem;
+    opacity: 0.1;
+    position: absolute;
+    top: 30rem;
+  }
+}
+
+.title {
+  text-align: center;
+}

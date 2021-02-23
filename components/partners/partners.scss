@@ -1,0 +1,30 @@
+.partners {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem 4rem 3rem 4rem;
+  max-width: 900px;
+  margin: 0 auto;
+
+  ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 48px;
+
+    li {
+      &.gold {
+        max-width: 250px;
+      }
+      &.silver {
+        max-width: 150px;
+      }
+      &.bronze {
+        max-width: 100px;
+      }
+      img {
+        width: 100%;
+      }
+    }
+  }
+}

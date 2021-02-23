@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.4)), url('/static/hero.jpg') center no-repeat;
+  background-size: cover;
+
+  @media (max-width: 768px) { height: 60vh; }
+
+  img {
+    max-height: 50vh;
+    max-width: 50vh;
+    display: block;
+    margin: auto;
+    opacity: 0.95;
+  }
+}

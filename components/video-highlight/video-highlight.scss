@@ -1,0 +1,50 @@
+section.video-highlight {
+  padding: 1rem 4rem 3rem 4rem;
+  margin: 2rem auto;
+  max-width: 900px;
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+  background-color: #efefef;
+  position: relative;
+
+  @media (max-width: 768px) {
+    padding: 1rem 5vw;
+    margin: 0;
+    font-size: 1rem;
+    line-height: 2.2rem;
+    background-color: #eee;
+    box-shadow: none;
+  }
+
+  > .wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    @media screen and (min-width: 800px) {
+      flex-direction: row;
+    }
+
+    iframe {
+      width: 100%;
+
+      @media screen and (min-width: 800px) {
+        width: 400px;
+        flex-shrink: 0;
+      }
+
+      @media screen and (min-width: 1000px) {
+        width: 500px;
+      }
+
+      @media screen and (min-width: 900px) {
+        width: 600px;
+      }
+    }
+
+    p {
+      padding: 1rem 1rem 1rem 0;
+      flex-shrink: 1;
+    }
+  }
+}

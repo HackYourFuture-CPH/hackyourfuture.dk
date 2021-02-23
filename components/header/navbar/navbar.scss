@@ -1,0 +1,44 @@
+$primary-color: #293a7d;
+
+.items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0 12px 0 0;
+    display: flex;
+
+    li {
+      padding: 0 0.5rem;
+
+      a {
+        color: $primary-color;
+        font-weight: bold !important;
+        font-size: 1rem !important;
+        font-family: 'Work Sans', sans-serif !important;
+        text-decoration: none;
+
+        &:hover,
+        &:active {
+          opacity: 0.9;
+          text-decoration: underline;
+        }
+        &.donate {
+          background-color: $primary-color;
+          color: white;
+          padding: 0.7rem;
+        }
+      }
+      &.active > a {
+        text-decoration: underline;
+      }
+    }
+  }
+}

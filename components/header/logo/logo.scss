@@ -1,0 +1,20 @@
+.logo {
+  margin-left: 1rem;
+  padding: 12px;
+
+  a {
+    transition: opacity 0.3s;
+
+    &:hover {
+      opacity: 0.7;
+    }
+
+    img {
+      height: 45px;
+    }
+  }
+
+  @media (min-width: 769px) {
+    margin-left: 0;
+  }
+}

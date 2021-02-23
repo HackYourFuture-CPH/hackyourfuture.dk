@@ -1,0 +1,113 @@
+$primary-color: #293a7d;
+
+.team-member-card {
+  padding: 20px;
+  text-align: center;
+  transition: all 0.5s;
+  color: $primary-color;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  max-width: 260px;
+  position: relative;
+
+  .member-name {
+    font-family: Space Mono, monospace;
+    line-height: 2rem;
+    font-size: 1.2rem;
+  }
+
+  .member-role {
+    text-transform: capitalize;
+  }
+
+  .member-tag {
+    font-size: 14px;
+    border: solid 1px;
+    margin: 2px 5px;
+    padding: 0 5px;
+    flex-wrap: wrap;
+    display: inline-flex;
+    background: #ffffff54;
+  }
+
+  .skills p {
+    font-size: 16px;
+    line-height: 1.5rem;
+  }
+
+  .social-media {
+    margin-top: 0.5rem;
+    a {
+      color: $primary-color;
+
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+
+  &.show-hired-overlay {
+    &::after {
+      content: 'Hired';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      display: block;
+      font-weight: bold;
+      text-shadow: 2px 2px 10px white;
+    }
+
+    > * {
+      opacity: 0.2;
+    }
+  }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 359px) {
+  .team-member-card {
+    max-width: 150px;
+    padding: 10px;
+    .social-media {
+      margin-top: 0.1rem;
+      margin: 0;
+      a {
+        padding: 3px;
+      }
+    }
+    .member-name,
+    .member-company,
+    .member-role {
+      line-height: 1.2rem;
+      font-size: 0.7rem;
+    }
+  }
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 375px) {
+  .team-member-card {
+    max-width: 180px;
+    padding: 13px;
+    .social-media {
+      margin-top: 0.1rem;
+      margin: 0;
+      a {
+        padding: 5px;
+      }
+    }
+    .member-name,
+    .member-company,
+    .member-role {
+      line-height: 1.2rem;
+      font-size: 0.9rem;
+    }
+  }
+}
+
+@media only screen and (min-device-width: 376px) and (max-device-width: 414px) {
+  .team-member-card {
+    max-width: 200px;
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "logo": "politiken.png",
+    "title": "POLITIKEN",
+    "url": "https://politiken.dk/video/art6485785/Hala-fra-Mosul-vil-v%C3%A6re-programm%C3%B8r-i-Danmark"
+  },
+  {
+    "id": 2,
+    "logo": "prosa.jpg",
+    "title": "PROSA",
+    "url": "https://www.prosa.dk/artikel/en-billet-til-fremtiden/"
+  },
+  {
+    "id": 3,
+    "logo": "opbyg.png",
+    "title": "Opbyg Samfundet",
+    "url": "https://www.youtube.com/watch?v=9DQ6qtAKoMk"
+  },
+  {
+    "id": 4,
+    "logo": "moot.png",
+    "title": "MOOT",
+    "url": "https://www.youtube.com/watch?v=XtfHh1szRuw"
+  },
+  {
+    "id": 5,
+    "logo": "cphftw.jpg",
+    "title": "CPHFTW",
+    "url": "https://medium.com/@cphftw/the-refugee-crisis-can-we-hack-it-9bbfc1e1472e"
+  }
+]

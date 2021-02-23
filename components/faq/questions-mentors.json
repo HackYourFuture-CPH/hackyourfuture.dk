@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "question": "How much time does teaching require per week?",
+    "answer": "About 8 hours (preparing, teaching, feedback)."
+  },
+
+  {
+    "id": 2,
+    "question": "Do I need to be a working professional to teach?",
+    "answer": "No, you don't need to be a working professional, but it is a big plus. We want our students to learn from people who work with the frameworks we teach on a daily basis and know the challenges of the market."
+  },
+  {
+    "id": 3,
+    "question": "Will I be teaching all by myself?",
+    "answer": "No, teaching always happens in pairs. This allows for less pressure on the individual, split responsibility and a broader perspective for our students."
+  },
+  {
+    "id": 4,
+    "question": "Do I have to teach exactly like it says in the repo?",
+    "answer": "No, you can basically teach however you best see fit. We have learning goals we want to complete in each module and that the next module builds on. You also don't need to reinvent the wheel about how to teach, all the material (code examples, exercises and documentation) is there if you prefer to follow existing instructions."
+  },
+  {
+    "id": 5,
+    "question": "When do the classes take place?",
+    "answer": "Sundays 12:00 - 16:00."
+  },
+  {
+    "id": 6,
+    "question": "Where do the classes take place?",
+    "answer": "In Vesterbro - we will provide you with the exact address after you write us a mail."
+  }
+]

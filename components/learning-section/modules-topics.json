@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "icon": "/static/module_logos/html.png",
+    "description": "Ensure the proper formating of text and images so that your browser may display them as they are intended to look."
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "icon": "/static/module_logos/css.png",
+    "description": "Learn how to make you webpages standout by creating beautiful designs."
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "icon": "/static/module_logos/javascript.png",
+    "description": "A programming language commonly used in web development to add awesome functionality for your site or app!"
+  },
+  {
+    "id": 4,
+    "name": "NODE JS",
+    "icon": "/static/module_logos/nodejs.png",
+    "description": "An open source development platform for executing JavaScript code on the back-end of your applications."
+  },
+  {
+    "id": 5,
+    "name": "MySQL",
+    "icon": "/static/module_logos/mysql.png",
+    "description": "An Oracle-backend open source relational database management system based on Structured Query Language (SQL)."
+  },
+  {
+    "id": 6,
+    "name": "React",
+    "icon": "/static/module_logos/react.png",
+    "description": "One of the most popular JavaScript libraries used for building reusable UI components for your apps."
+  }
+]

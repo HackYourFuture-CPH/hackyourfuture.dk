@@ -1,0 +1,18 @@
+section.supporters {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem 4rem 3rem 4rem;
+  max-width: 900px;
+  margin: 0 auto;
+
+  ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+
+    li img {
+      max-width: 100px;
+    }
+  }
+}
